@@ -28,7 +28,7 @@ case $op in
         exit 1;;
 esac
 
-if [ "$2" -ne "m" ]; then
+if [ "$2" != "m" ]; then
     echo "$a $op $b = $result"
 else
     echo "$a * $b = $result"
