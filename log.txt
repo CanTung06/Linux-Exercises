@@ -1,0 +1,4 @@
+INFO start system
+WARN low memory
+ERROR crash
+INFO running
