@@ -31,3 +31,4 @@ esac
 
 [ "$op" = "m" ] && op="*"
 echo "$a $op $b = $result"
+
